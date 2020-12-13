@@ -59,4 +59,3 @@ public class BottomSheetFragment extends BottomSheetDialogFragment {
     }
 
 }
-<image src = "BottomSheet/bottomSheet.png"/>
